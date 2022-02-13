@@ -50,5 +50,10 @@ This is a really good idea because we can intanciate a lot of already defined ob
 
 #### Question 3: Find an original idea to implement a decorator pattern (not the one from the website). Can you think of any limitations? No need to code here.
 
+We can think of an idea of a car dealer that could allow users to add options to the car. This way it would be quite easy to design and build the car with all the different extras requested by the user. Models would then be available for pre-sale and also in blueprint form (pattern).
+
+#### Question 4:	Write  a  small  program  to  implement  the behavioral design  pattern  of  your  choice
+
+
 
 
