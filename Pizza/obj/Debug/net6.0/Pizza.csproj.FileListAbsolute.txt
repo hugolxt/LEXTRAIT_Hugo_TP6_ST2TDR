@@ -1,0 +1,30 @@
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\bin\Debug\net6.0\Pizza.exe
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\bin\Debug\net6.0\Pizza.deps.json
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\bin\Debug\net6.0\Pizza.runtimeconfig.json
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\bin\Debug\net6.0\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\bin\Debug\net6.0\ref\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\bin\Debug\net6.0\Pizza.pdb
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.csproj.AssemblyReference.cache
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.AssemblyInfoInputs.cache
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.AssemblyInfo.cs
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\ref\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.pdb
+C:\Users\Hugo Lextrait\Desktop\Nouveau dossier (2)\Pizza\Pizza\obj\Debug\net6.0\Pizza.genruntimeconfig.cache
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.csproj.AssemblyReference.cache
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.AssemblyInfoInputs.cache
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.AssemblyInfo.cs
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\ref\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.pdb
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\bin\Debug\net6.0\Pizza.exe
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\bin\Debug\net6.0\Pizza.deps.json
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\bin\Debug\net6.0\Pizza.runtimeconfig.json
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\bin\Debug\net6.0\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\bin\Debug\net6.0\ref\Pizza.dll
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\bin\Debug\net6.0\Pizza.pdb
+C:\Users\Hugo Lextrait\Desktop\Pizza\Pizza\Pizza\obj\Debug\net6.0\Pizza.genruntimeconfig.cache
